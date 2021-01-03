@@ -34,7 +34,7 @@ timezone: America/Los_Angeles # see https://en.wikipedia.org/wiki/List_of_tz_dat
 ## => Author and Social
 ##############################
 author:
-  type      : "person" # "person" (default), "organization"
+  type      : person # "person" (default), "organization"
   name      : Zach
   url       :
   avatar    : # path or url of avatar image (square)
@@ -169,12 +169,12 @@ search:
 ## => Analytics
 ##############################
 analytics:
-  provider: false # false (default), "google", "custom"
+  provider: google # false (default), "google", "custom"
 
   ## Google Analytics
   google:
-    tracking_id : # Google Analytics id for the site
-    anonymize_ip: false # Anonymize IP tracking for Analytics
+    tracking_id : UA-186048924-1 # Google Analytics id for the site
+    anonymize_ip: true # Anonymize IP tracking for Analytics
 
 
 ## => Build
