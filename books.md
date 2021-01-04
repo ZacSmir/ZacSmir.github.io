@@ -2,7 +2,7 @@
 layout: article
 titles:
   # @start locale config
-  en      : &EN       Books
+  en      : &EN       Book Reccomendations
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
