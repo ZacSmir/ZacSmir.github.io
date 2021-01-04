@@ -2,7 +2,7 @@
 layout: article
 titles:
   # @start locale config
-  en      : &EN       Music Reccomendations
+  en      : &EN       Notes
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
@@ -23,6 +23,6 @@ titles:
   fr-FR   : *FR
   fr-LU   : *FR
   # @end locale config
-key: page-music
+key: page-notes
 ---
 This is where I'm putting my notes on some of the nonfiction I read. Zach-made sparknotes.
