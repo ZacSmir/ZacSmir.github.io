@@ -51,7 +51,7 @@ header:
 
   - titles:
       # @start locale config
-      en      : &EN       Book Reccomendations
+      en      : &EN       Book Reccs
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
@@ -76,7 +76,7 @@ header:
     
   - titles:
       # @start locale config
-      en      : &EN       Music Reccomendations
+      en      : &EN       Music Reccs
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
