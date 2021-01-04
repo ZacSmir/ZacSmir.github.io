@@ -22,7 +22,7 @@ url     : # the base hostname & protocol for your site e.g. https://www.someone.
 baseurl : # does not include hostname
 title   : The Void That Binds
 description: > # this means to ignore newlines until "Language & timezone"  
-Attempting to create piecewise approximations to reality and general poasting about things I find interesting.
+  Attempting to create piecewise approximations to reality and general poasting about things I find interesting.
 
 ## => Language and Timezone
 ##############################
