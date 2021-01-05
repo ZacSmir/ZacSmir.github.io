@@ -25,12 +25,6 @@ titles:
   # @end locale config
 key: page-music
 ---
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-
 A list of music I reccomend and why:  
 
 | Album | Artist | Reasoning |
