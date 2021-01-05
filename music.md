@@ -31,10 +31,9 @@ key: page-music
 | Header      | Title       |
 | Paragraph   | Text        |
 
-A list of music I reccomend and why:
-
+A list of music I reccomend and why:  
 
 | Album | Artist | Reasoning |
-| ----- | ----- | ---------- |
+| ---- | ---- | ---- |
 | [Darkness on the Edge of Town](https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc?si=dTjWpZtyTb2eb-OlVyYKJA) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT?si=B64c2EgjTWmcd0qp8Fpw4w) | Beautiful and raw lyricism about alienation, pain, longing, and labor set to powerful rock and roll. |
 | [Placeholder]() | [Placeholder]() | Placeholder |
