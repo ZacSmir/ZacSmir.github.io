@@ -25,7 +25,8 @@ titles:
   # @end locale config
 key: page-books
 ---
-A list of books that I've read and reccomend and why.
+A list of books that I've read and reccomend and why:  
+
 |Books|Author|Reasoning|
 |---|---|---|
 |Too Like the Lightning, Terra Ignota series|Ada Palmer|Best science fiction in at least two decades, well written and incredibly innovative world that explores power, gender, historiography, societal arrangements, choice, theology, everything really. I don't think I can reccomend this series enough. If you find anything interesting at all, read it.|
