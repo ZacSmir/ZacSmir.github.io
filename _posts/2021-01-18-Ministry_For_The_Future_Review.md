@@ -39,32 +39,21 @@ For example, it's clear from early chapters about the 2,000 watt society (a grou
 Because his overall view of ideology and how it relates to reality, Robinson forces himself to write about a world and series of events that go beyond and require more than one simple beliefset (or horizontal application of one system) can provide. We don't just need to reduce energy useage we also need to produce more clean energy. We don't need to, or simply aren't able, to dismantle harmful financial systems, we can use them to incentivize leaving the growth of clean energy or leaving oil in the ground. No matter how much I disagree with specific solutions or conclusions Robinson reaches, his overall approach is broad, complex, and open enough to tackle the entirety of climate change better than almost all other authors.
 
 So, with his approach to ideology and solving problems out of the way, now for his actual ideology. Thankfully, half of it can be summed up in one phrase:
-> "What's good is good for the land."
+> "What's good is good for the land."  
 This sentence gets repeated numerous times throughout the book. Both by the narrator and as a description of various protagonist organization's worldviews. This either informs or is informed by Robinson's valuing of conservation and sustainability and manifests in various schemes for more sustainable farming/fishing and the "Half Earth Movement" which is dedicated to cutting the land humanity uses down to half of the land-area of the planet. This is the simpler, driving, idealistic, and degrowth connected half of his ideology.  
 
 The other half is more pragmatic and complex. It's not the goal he's reaching for but his model of understanding the systems that can achieve those goals. From a discussion between the narrator(s):
 > Who matters the most in that group \[that administers our economic system...and teaches others how to work it\]?  
-
 > Government legislators.  
-
 > That's a bad thought.  
-
 > No it isn't. Why would you say that?  
-
 > Corruption, stupidity—  
-
 > Rule of law.  
-
 > But—  
-
 > But me no buts. Rule of law.  
-
 > What a weak reed to stand on!  
-
 > Yes.  
-
 > What can we do about that?  
-
 > Just make it stick.  
 
 This summarizes Robinson's view of how to change things, at least in this current version of the world, almost perfectly. Energy can come from the bottom and force the powerbroker's hands. Violence can come from ecoterrorists and force their hands as well. The people can vote in elections to pick new lawmakers. The people can rise up in rebellion to pick new lawmwakers. But the people who make the rules change things. I'm not certain how much I agree with this, but I find it true enough and I admire its pragmatism. It's this side of his ideology that leads to one of the main charactesr negotiating with central banks to enact the aforementioned carbon-coin. It's this side of his ideology that has the first major initiative to fight climate change come from a massive electoral and then more relevantly, legislative, shift in India after the heatwave from the first chapter. More than that, it's the belief in rule of law that makes the central organization in the fight against climate change a UN agency!
