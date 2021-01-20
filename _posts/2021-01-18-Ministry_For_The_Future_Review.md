@@ -25,9 +25,38 @@ The second, and much more important thing that happens is that you start to feel
 
 The book is a message to keep fighting because we have to fight and we can win.
 <h2>So What does Kim Stanley Robinson Believe?</h2>
-Another unique feature of the novel is occasional interludes. Many of these are almost riddles given by various material or immaterial "things," like The Sun, the market, or photons. Others are technical digressions on things like taxes, Keynes' definition of the "rentier class," how much carbon we're burning, or animal extinction rates. As the book progresses these interludes become more philosophical, early ones are brief and about what ideology is or "alternatives to global neoliberalism." They eventuall reach topics like
+Another unique feature of the novel is occasional interludes. Many of these are almost riddles given by various material or immaterial "things," like The Sun, the market, or photons. Others are technical digressions on things like taxes, Keynes' definition of the "rentier class," how much carbon we're burning, or animal extinction rates. As the book progresses these interludes become more philosophical, early ones are brief and about what ideology is or "alternatives to global neoliberalism." They eventually reach topics like whether or not technology drives history.  
 
-First, the easy stuff:
- - "What's good is good for the land." This sentence gets repeated numerous times throughout the book(both by the narrator and as a description of various protagonist organization's worldviews).
- - 
-<h2>My Criticisms(not nitpicks)</h2>
+These interludes provide very clear insight into the framework Robinson uses to understand the world and thereby what kinds of changes need to happen to fight climate change and how. So what is that framework?  
+
+First off, Robinson embraces complexity. This is clear enough from the interweaving structure of solutions and problems throughout the book, but its made even more clear by chapter 11, an interlude on ideology. 
+> An imaginary relationship to a real situation...There is a real situation, that can't be denied, but it is too big for any individual to know in full, and so we must create our understanding by way of an act of the imagination.  
+Robinson's distinct and early awareness of the map of ideology not being the territory doesn't preclude him from having some sort of ideology (which we'll get too soon enough) but rather it forces him to embrace more complexity and ambiguity than a conventional ideology would. **Ideologies are simplifications of reality that frequently lead us to believe two systems or solutions to a problem are mutually exclusive or in direct conflict with eachother when it is simply not the case.** Robinson gets this.
+
+For example, it's clear from early chapters about the 2,000 watt society (a group dedicated to only use 2,000 watts of energy each day), conservationism, and the Jevons paradox, which proposes that "increases in efficiency in t he use of a resource lead to an overall increase in the use of that resource, not a decrease," that Robinson has some de-growth beliefs. (De-growth is a beliefset I deeply disagree with and which people who know more than me have [written about](https://www.bloomberg.com/opinion/articles/2020-02-18/put-a-stop-to-economic-growth-huge-mistake).) Despite all this, The Ministry for the Future isn't wholly in favor of de-growth, neither in methedology or endpoint. Robinson acknowledges the absurdity of demanding that developing countries embrace degrowth and the most explicit case of degrowth is something which I don't believe would actually count as such(I'll get to that next section). In terms of the status of humanity at the end of the books:  
+> Jevons Paradox appeared to be foxed at last; not in its central point, which stated that as more energy was created, more got used; but now that it was being generated cleanly,  
+
+Because his overall view of ideology and how it relates to reality, Robinson forces himself to write about a world and series of events that go beyond and require more than one simple beliefset (or horizontal application of one system) can provide. We don't just need to reduce energy useage we also need to produce more clean energy. We don't need to, or simply aren't able, to dismantle harmful financial systems, we can use them to incentivize leaving the growth of clean energy or leaving oil in the ground. No matter how much I disagree with specific solutions or conclusions Robinson reaches, his overall approach is broad, complex, and open enough to tackle the entirety of climate change better than almost all other authors.
+
+So, with his approach to ideology and solving problems out of the way, now for his actual ideology. Thankfully, half of it can be summed up in one phrase:
+> "What's good is good for the land."
+This sentence gets repeated numerous times throughout the book. Both by the narrator and as a description of various protagonist organization's worldviews. This either informs or is informed by Robinson's valuing of conservation and sustainability and manifests in various schemes for more sustainable farming/fishing and the "Half Earth Movement" which is dedicated to cutting the land humanity uses down to half of the land-area of the planet. This is the simpler, driving, idealistic, and degrowth connected half of his ideology.  
+
+The other half is more pragmatic and complex. It's not the goal he's reaching for but his model of understanding the systems that can achieve those goals. From a discussion between the narrator(s):
+> Who matters the most in that group \[that administers our economic system...and teaches others how to work it\]?
+> Government legislators
+> That's a bad thought
+> No it isn't. Why would you say that?
+> Corruption, stupidity—
+> Rule of law.
+> But—
+> But me no buts. Rule of law
+> What a weak reed to stand on!
+> Yes.
+> What can we do about that?
+> Just make it stick.
+This summarizes Robinson's view of how to change things, at least in this current version of the world, almost perfectly. Energy can come from the bottom and force the powerbroker's hands. Violence can come from ecoterrorists and force their hands as well. The people can vote in elections to pick new lawmakers. The people can rise up in rebellion to pick new lawmwakers. But the people who make the rules change things. I'm not certain how much I agree with this, but I find it true enough and I admire its pragmatism. It's this side of his ideology that leads to one of the main charactesr negotiating with central banks to enact the aforementioned carbon-coin. It's this side of his ideology that has the first major initiative to fight climate change come from a massive electoral and then more relevantly, legislative, shift in India after the heatwave from the first chapter.  
+
+There's a lot more complexity 
+
+<h2>My Criticisms(or are they?)</h2>
