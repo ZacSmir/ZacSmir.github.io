@@ -112,4 +112,4 @@ Octavia Butler's Earthseed Chronicles is another freakishly prescient view of Am
 > God exists to be shaped.  
 > God is [Change](https://godischange.org/shape-god/).  
 
-Change is coming, whether its climate change or the changes to our societies we make to combat climate change. We can't stop change, but we can shape it. Ministry for the future urges us to shape the coming change before it's too late and gives us a few ideas how.
+Change is coming, whether its climate change or the changes to our societies we make to combat climate change. We can't stop change, but we can shape it. Ministry for the future shows us a few ways in which we can shape the coming change and urges us to do so before it's too late.
