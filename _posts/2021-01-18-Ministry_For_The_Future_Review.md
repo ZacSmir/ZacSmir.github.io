@@ -96,7 +96,7 @@ Or maybe not ironically. Maybe perfectly in tune with the broader themes of the 
 
 Ministry for the Future is not a perfect book, but it's one of the best visions of a few of what's ahead of us, both the crises themselves as well as the available solutions and potential roadblocks.  
 
-<h2>Conclusion<\h2>
+<h2>Conclusion</h2>  
 Octavia Butler's Earthseed Chronicles is another freakishly prescient view of America and climate change, though in a very different way from Ministry for the Future. The titular Earthseed is a religion, the central tenet of which is "God is change."
 
 > God is Power—  
