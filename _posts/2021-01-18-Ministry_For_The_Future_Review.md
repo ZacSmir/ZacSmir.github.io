@@ -1,5 +1,5 @@
 ---
-title: A Short Review of Ministry for the Future(Minimal spoilers but spoilers nonethelesss)
+title: A Short Review of Ministry for the Future(Spoilers but definitely not to the point where you shouldn't still read the book)
 tags: Politics Climate_Change Geo-engineering Technology Cities 
 ---
 <h2>The Story Itself</h2>
