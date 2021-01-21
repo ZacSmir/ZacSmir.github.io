@@ -68,7 +68,7 @@ A: Cities.
 As of [2018](https://www.un.org/development/desa/en/news/population/2018-revision-of-world-urbanization-prospects.html), 55% of all humans live in cities. One in eight humans live in one of _just thirty-three cities_! By 2050 that number will be closer to 68%.  
 Q: In what kinds of settlements do humans emit the least amount of carbon?  
 A: In dense ones, i.e. cities.  
-The carbon footprints of dense cities is leagues under those of suburban sprawl and rural areas. This is partially because methods of transportation used in the suburbs like trucks and cars account for [about 50%](https://news.berkeley.edu/2014/01/06/suburban-sprawl-cancels-carbon-footprint-savings-of-dense-urban-cores/) of all household emissions in the United States, meaning that dense cities which allow for public transit, walking, and cycling are already massively cutting emissions. But it's more than just that. Denser housing also uses significantly less energy than less dense housing. In a 2017 study titled ["Global scenarios of urban density and its impacts on building energy use through 2050"](https://www.pnas.org/content/early/2017/01/03/1606035114.long) researchers found that.  
+The carbon footprints of dense cities is leagues under those of suburban sprawl and rural areas. This is partially because methods of transportation used in the suburbs like trucks and cars account for [about 50%](https://news.berkeley.edu/2014/01/06/suburban-sprawl-cancels-carbon-footprint-savings-of-dense-urban-cores/) of all household emissions in the United States, meaning that dense cities which allow for public transit, walking, and cycling are already massively cutting emissions. But it's more than just that. Denser housing also uses significantly less energy than less dense housing. In a 2017 study titled ["Global scenarios of urban density and its impacts on building energy use through 2050"](https://www.pnas.org/content/early/2017/01/03/1606035114.long) researchers found that:  
 
 > Across all urban density scenarios, advanced efficiency technologies result in about 7 exajoules per year less energy use for heating and cooling in 2050. In comparison, the difference between the high and low urban density scenarios (corresponding to the most compact and least compact urban form futures) is about 8 (in the case of advanced efficiency) to 9 (in the case of business-as-usual efficiency) exajoules in 2050.  
 
@@ -92,4 +92,23 @@ Well, the answer is actually pretty obvious. De-growth and the uniquely American
 
 Ironically, Robinson's de-growth beliefs, namely limiting where humans live to only half of all land, would lead to **huge** increases in urban populations and necessitate even greater density and even higher functioning cities.  
 
-Or maybe not ironically. Maybe just unintentionally. Here's where we get to why I put "(or are they?)" in the section title. Robinson's blindspot(increasing city density and livability) being increased behind the scenes by his beliefs(de-growth is good, as well as a certain definition of growth) is a perfect example of both the limitations of ideology that he states early on in the book. It's also an example of how an ideological approach like his, i.e. one that is systems based and therefore fundamentally open to new ideas/systems, so long as they're goods ones, is capable of doing so much more than a more limited frameworrk
+Or maybe not ironically. Maybe perfectly in tune with the broader themes of the novel. Here's where we get to why I put "(or are they?)" in the section title. Robinson's blindspot(increasing city density and livability) being increased behind the scenes by his beliefs(de-growth is good, as well as a certain definition of growth) is a perfect example of both the limitations of ideology that he states early on in the book. It's also an example of how an ideological approach like his, i.e. one that is systems based and therefore fundamentally open to new ideas/systems, so long as they're goods ones, is capable of enacting two systems at once that more simplified and rigid worldviews would say are mutually exclusive. Who's to say that condensing humans into denser spaces and leaving more space open for non-human lifeforms aren't both forms of vital growth? Literal growth in the case of non-human lifeforms. And cities.
+
+Ministry for the Future is not a perfect book, but it's one of the best visions of a few of what's ahead of us, both the crises themselves as well as the available solutions and potential roadblocks.  
+
+Octavia Butler's Earthseed Chronicles is another freakishly prescient view of America and climate change, though in a very different way from Ministry for the Future. The titular Earthseed is a religion, the central tenet of which is "God is change."  
+
+> God is Power—  
+> Infinite,  
+> Irresistible,  
+> Inexorable,  
+> Indifferent.  
+> And yet, God is Pliable—  
+> Trickster,  
+> Teacher,  
+> Chaos,  
+> Clay.  
+> God exists to be shaped.  
+> God is Change.  
+
+Change is coming, whether its climate change or the changes to our societies we make to combat climate change. We can't stop change, but we can shape it. Ministry for the future urges us to shape the coming change before it's too late and gives us a few ideas how.
