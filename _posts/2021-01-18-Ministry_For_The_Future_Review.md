@@ -63,3 +63,33 @@ This summarizes Robinson's view of how to change things, at least in this curren
 There's a lot more complexity and ambiguity in the details of all this, a lot of which will come up in my criticisms, but these two halves are the broad strokes that inform the approaches and actions taken in the book. And when it comes to solving the largest crisis humans have ever faced, embracing complexity is the best place to start.
 
 <h2>My Criticisms(or are they?)</h2>
+Q: Where do humans live?  
+A: Cities.  
+As of [2018](https://www.un.org/development/desa/en/news/population/2018-revision-of-world-urbanization-prospects.html), 55% of all humans live in cities. One in eight humans live in one of _just thirty-three cities_! By 2050 that number will be closer to 68%.  
+Q: In what kinds of settlements do humans emit the least amount of carbon?  
+A: In dense ones, i.e. cities.  
+The carbon footprints of dense cities is leagues under those of suburban sprawl and rural areas. This is partially because methods of transportation used in the suburbs like trucks and cars account for [about 50%](https://news.berkeley.edu/2014/01/06/suburban-sprawl-cancels-carbon-footprint-savings-of-dense-urban-cores/) of all household emissions in the United States, meaning that dense cities which allow for public transit, walking, and cycling are already massively cutting emissions. But it's more than just that. Denser housing also uses significantly less energy than less dense housing. In a 2017 study titled ["Global scenarios of urban density and its impacts on building energy use through 2050"](https://www.pnas.org/content/early/2017/01/03/1606035114.long) researchers found that.  
+
+> Across all urban density scenarios, advanced efficiency technologies result in about 7 exajoules per year less energy use for heating and cooling in 2050. In comparison, the difference between the high and low urban density scenarios (corresponding to the most compact and least compact urban form futures) is about 8 (in the case of advanced efficiency) to 9 (in the case of business-as-usual efficiency) exajoules in 2050.  
+
+Their overall conclusion is that density is more important in urbanizing areas, efficiency in areas that are already densely urbanized.  
+
+With all these people living in cities, even more people about to be living in cities, and the crazy drops in energy useage we get from dense healthy cities, you'd expect Ministry for the Future to contain a whole lot of content about how cities around the world grow and change in response to climate change, becoming denser, getting better public transit and infrastructure, dealing with massive influxes of internal migrants, fighting NIMBYs who don't want denser housing, even though the world depends on it. Or at least you'd expect some of those things right?  
+
+There are only two chapters in Ministry for the Future that are _about_ cities. There are many digressions within chapters about Zurich, a few of which are about things possible in all cities(as opposed to comments on Swiss culture), like public transportation. But there are only two chapters, out of one hundred and six, about cities.  
+
+In the first of these chapters, LA goes through a terrible drought and then floods and is destroyed. At the end of the chapter, the character it centers on thinks to themselves:  
+
+> The entire city of Los Angeles is going to have to be replaced. Which was great. Maybe we could do it right this time.  
+
+The book never returns to Los Angeles. We never see them do it right.  
+
+The second and final chapter that is about cities is only tangentially so. It's about the three hundred inhabitants of small American town (that was never that large to begin with and which has been shrinking for decades) who all have been paid by the government to pack up and leave for a big city because where their town was is getting reclaimed by the Half Earth project I mentioned earlier in the review.  
+
+I love this book, that should be clear from the first section of the review, but this is ridiculous. Over five hundred pages, a nice amount of which is on farming and farmers(Only in India and the United States, but still), but next to _none_ of it is about the complex, diverse, and changing built environments that most humans live in! Yes, climate change is the broadest and most universal process in human history. Yes, Ministry for the Future does a better job of capturing that than anything that's come before it. But come on! How does Robinson basically never touch on the direct material surroundings of almost all humans?  
+
+Well, the answer is actually pretty obvious. De-growth and the uniquely American fear of cities. Cities in the U.S. are kind of a mess. We pillaged our functional thriving cities throughout the bulk of the twentieth century in exchange for suburbs and cars. A lot of that pillaging was driven by racism(white flight) or had its implementation shaped by racism(building highways straight through African American communities). This fucked up our cities and has left a lot of them conglomerations of humans who are seen by popular culture as _physically close but metaphysically distant_(whether or not this is actually the case is likely a neighborhood by neighborhood matter, the point is that this is the popular American conception of cities). That this, combined with Robinson's de-growth proclivities results in a narrative devoid of the spaces where people actually live.  
+
+Ironically, Robinson's de-growth beliefs, namely limiting where humans live to only half of all land, would lead to **huge** increases in urban populations and necessitate even greater density and even higher functioning cities.  
+
+Or maybe not ironically. Maybe just unintentionally. Here's where we get to why I put "(or are they?)" in the section title. Robinson's blindspot(increasing city density and livability) being increased behind the scenes by his beliefs(de-growth is good, as well as a certain definition of growth) is a perfect example of both the limitations of ideology that he states early on in the book. It's also an example of how an ideological approach like his, i.e. one that is systems based and therefore fundamentally open to new ideas/systems, so long as they're goods ones, is capable of doing so much more than a more limited frameworrk
