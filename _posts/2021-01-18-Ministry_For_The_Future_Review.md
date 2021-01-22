@@ -21,7 +21,7 @@ An in depth review of the even greater list of specific solutions practiced by t
 
 The point is that the variety of solutions is so wide, their interactions and consequences so complex, that two things happen. The first is that you accept the broad stroke of all of them taken together. The story is believable. Or at least you aren't smart or knowledgable enough to refute every point sufficiently so you just shut up and enjoy the ride. In fact, the scope of the book is downright overwhelming in the best way possible. So much is going on in every cultural, technological, ecological, and economic sphere imaginable that it's difficult to give a full accounting of every little concept or event.  
 
-The second, and much more important thing that happens is that you start to feel kind of optimistic. It's not all doom and gloom and twenty million dead in one day. There's hope! There are **SO MANY SOLUTIONS**(blog post about that in the works, needed to be updated partially because of this book). If we keep throwing things at the wall to see what sticks, what saves us, it will be worth it. The book doesn't end on a safe or comfortable note. There is still so much left to do, and some things, like ocean acidification, is irreversable but things have gotten better, there's more hope than ever before. PPM of CO2 in the air is going down, animals are coming back, and inequality has shrunk more than it ever has before.  
+The second, and much more important thing that happens is that you start to feel kind of optimistic. It's not all doom and gloom and twenty million dead in one day. There's hope! There are **SO MANY SOLUTIONS** (blog post about that in the works, needed to be updated partially because of this book). If we keep throwing things at the wall to see what sticks, what saves us, it will be worth it. The book doesn't end on a safe or comfortable note. There is still so much left to do, and some things, like ocean acidification, are irreversible. But things have gotten better, there's more hope than ever before. PPM of CO2 in the air is going down, animals are coming back, and inequality has shrunk more than it ever has before.  
 
 The book is a message to keep fighting because we have to fight and we can win.
 <h2>So What does Kim Stanley Robinson Believe?</h2>
@@ -114,5 +114,5 @@ Octavia Butler's Earthseed Chronicles is another freakishly prescient view of Am
 
 Change is coming, whether its climate change or the changes to our societies we make to combat climate change. We can't stop change, but we can shape it. Ministry for the future shows us a few ways in which we can shape the coming change and urges us to do so before it's too late.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTU5OTk3ODgsNDQ2Mzc1ODU5XX0=
+eyJoaXN0b3J5IjpbMTcyMzkwMDcwNiw0NDYzNzU4NTldfQ==
 -->
