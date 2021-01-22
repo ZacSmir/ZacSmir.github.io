@@ -3,7 +3,7 @@ title: A Short Review of Ministry for the Future (Spoilers but definitely not to
 tags: Politics Climate_Change Geo-engineering Technology Cities 
 ---
 <h2>The Story Itself</h2>
-Ministry for the Future by Kim Stanley Robinson is the best novel about climate change out there. This is partially because of the clearly massive amount of research that went into it and the real believability of the solutions and events that occur throughout the book. However, the real reason why this book is so damn good is because it gets at the visceral, real, and brutal consequences of climate change better than any study or opinion piece ever could and any other fiction I've read on the subject has.  
+The Ministry for the Future by Kim Stanley Robinson is the best novel about climate change out there. This is partially because of the massive amount of research that must have gone into it and the believable details of the solutions and events that occur throughout the book. However, the real reason why this book is so damn good is because it gets at the visceral, real, and brutal consequences of climate change better than any study or opinion piece ever could and better than any other fiction I've read on the subject has.  
 
 The novel opens with Frank May, a volunteer medical worker from the U.S. working in India, surviving a heat wave that kills twenty million people. Page _twelve_ has descriptions like  
 
@@ -113,3 +113,6 @@ Octavia Butler's Earthseed Chronicles is another freakishly prescient view of Am
 > God is [Change](https://godischange.org/shape-god/).  
 
 Change is coming, whether its climate change or the changes to our societies we make to combat climate change. We can't stop change, but we can shape it. Ministry for the future shows us a few ways in which we can shape the coming change and urges us to do so before it's too late.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEwODg2MjAxMDZdfQ==
+-->
