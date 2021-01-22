@@ -29,7 +29,7 @@ Another unique feature of the novel is occasional interludes. Many of these are 
 
 These interludes provide very clear insight into the framework Robinson uses to understand the world and thereby what kinds of changes need to happen to fight climate change and how. So what is that framework?  
 
-First off, Robinson embraces complexity. This is clear enough from the interweaving structure of solutions and problems throughout the book, but its made even more clear by chapter 11, an interlude on ideology. 
+First off, Robinson embraces complexity. This is clear enough from the interweaving structure of solutions and problems throughout the book, but its made even more clear by chapter eleven, an interlude on ideology. 
 > An imaginary relationship to a real situation...There is a real situation, that can't be denied, but it is too big for any individual to know in full, and so we must create our understanding by way of an act of the imagination.  
 
 Robinson's distinct and early awareness of the map of ideology not being the territory doesn't preclude him from having some sort of ideology (which we'll get too soon enough) but rather it forces him to embrace more complexity and ambiguity than a conventional ideology would. **Ideologies are simplifications of reality that frequently lead us to believe two systems or solutions to a problem are mutually exclusive or in direct conflict with eachother when it is simply not the case.** Robinson gets this.
@@ -114,5 +114,6 @@ Octavia Butler's Earthseed Chronicles is another freakishly prescient view of Am
 
 Change is coming, whether its climate change or the changes to our societies we make to combat climate change. We can't stop change, but we can shape it. Ministry for the future shows us a few ways in which we can shape the coming change and urges us to do so before it's too late.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MDI4MTk5LDQ0NjM3NTg1OV19
+eyJoaXN0b3J5IjpbMTU4NzkzMTE3NCwxMDcwMjgxOTksNDQ2Mz
+c1ODU5XX0=
 -->
