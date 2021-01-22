@@ -25,7 +25,7 @@ The second, and much more important thing that happens is that you start to feel
 
 The book is a message to keep fighting because we have to fight and we can win.
 <h2>So What does Kim Stanley Robinson Believe?</h2>
-Another unique feature of the novel is occasional interludes. Many of these are almost riddles given by various material or immaterial "things," like The Sun, the market, or photons. Others are technical digressions on things like taxes, Keynes' definition of the "rentier class," how much carbon we're burning, or animal extinction rates. As the book progresses these interludes become more philosophical, early ones are brief and about what ideology is or "alternatives to global neoliberalism." They eventually reach topics like whether or not technology drives history.  
+Another unique feature of the novel is occasional interludes. Many of these are almost riddles given by various material or immaterial things like The Sun, the market, or photons. Others are technical digressions on anything from taxes, Keynes' definition of the "rentier class," to how much carbon we're burning or animal extinction rates. As the book progresses these interludes become more philosophical, early ones are brief and about what ideology is or "alternatives to global neoliberalism." They eventually reach topics like whether or not technology drives history.  
 
 These interludes provide very clear insight into the framework Robinson uses to understand the world and thereby what kinds of changes need to happen to fight climate change and how. So what is that framework?  
 
@@ -114,5 +114,5 @@ Octavia Butler's Earthseed Chronicles is another freakishly prescient view of Am
 
 Change is coming, whether its climate change or the changes to our societies we make to combat climate change. We can't stop change, but we can shape it. Ministry for the future shows us a few ways in which we can shape the coming change and urges us to do so before it's too late.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMzkwMDcwNiw0NDYzNzU4NTldfQ==
+eyJoaXN0b3J5IjpbMTA3MDI4MTk5LDQ0NjM3NTg1OV19
 -->
