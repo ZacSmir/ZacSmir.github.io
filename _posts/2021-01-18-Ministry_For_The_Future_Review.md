@@ -7,9 +7,9 @@ The Ministry for the Future by Kim Stanley Robinson is the best novel about clim
 
 The novel opens with Frank May, a volunteer medical worker from the U.S. working in India, surviving a heat wave that kills twenty million people. Page _twelve_ has descriptions like  
 
-> "all the old people were dead. People murmured what should have been screams of grief; those who could still move shoved bodies out of the lake, or out toowards the middle where they floated like logs, or sank,"  
+> all the old people were dead. People murmured what should have been screams of grief; those who could still move shoved bodies out of the lake, or out towards the middle where they floated like logs, or sank,  
 
-The true human cost of climate change being made clear from the start, and becoming the spark for much of the events of thet rest of the book, forces you to **get it**—to understand how truly fucked up even the first effects of climate change are going to be and how almost _anything_ is justified to stop and reverse the process. Robinson makes sure this almost personal understanding of the consequences of climate change remains with you through a character who spends, by the end of the book, twenty eight years of their life in climate refugee camps or in transit between them. With climate change caused suffering on a scale surpassing at leastt WWI and maybe WWII, the destruction of a couple hundred plane flights in mid-air by drones thereby ending all public air travel, and similar actions done to cargo ships, becomes something you feel relieved, rather than horrified, by. Then you think about that relief and realize "If it's going to get so bad that an onlooker could cheer eco-terrorism, we really have to do everything to stop and try reverse this RIGHT NOW."  
+The true human cost of climate change being made clear from the start, as well as that event's impact throughout the rest of the book, forces you to **get it**—to understand how truly fucked up even the first effects of climate change are going to be and how almost _anything_ is justified to stop and reverse the process. Robinson makes sure this almost personal understanding of the consequences of climate change remains with you through a character who spends, by the end of the book, twenty eight years of their life in climate refugee camps or in transit between them. With climate change caused suffering on a scale surpassing at leastt WWI and maybe WWII, the destruction of a couple hundred plane flights in mid-air by drones thereby ending all public air travel, and similar actions done to cargo ships, becomes something you feel relieved, rather than horrified, by. Then you think about that relief and realize "If it's going to get so bad that an onlooker could cheer eco-terrorism, we really have to do everything to stop and try reverse this RIGHT NOW."  
 
 Of course, in The Ministry for the Future ecoterrorism alone isn't enough. And it won't be enough(and ideally it won't be anything) in our world. That's where the titular ministry comes into play. The ministry's cajoling and pleading with national governments, their good-enough solutions, their attempts(some succsesful) at establishing their own initiatives, all feel incredibly real and are incredibly well researched.  
 
@@ -114,5 +114,5 @@ Octavia Butler's Earthseed Chronicles is another freakishly prescient view of Am
 
 Change is coming, whether its climate change or the changes to our societies we make to combat climate change. We can't stop change, but we can shape it. Ministry for the future shows us a few ways in which we can shape the coming change and urges us to do so before it's too late.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODg2MjAxMDZdfQ==
+eyJoaXN0b3J5IjpbMTU1NzcxNDEyMl19
 -->
