@@ -15,9 +15,9 @@ Of course, in _The Ministry for the Future_ ecoterrorism alone isn't enough. And
 
 Another thing that Robinson does that makes his vision of a potential future look so complete is the diversity of solutions being practiced by different groups, from India geo-engineering the equivalent of a volcanically induced cooling to prevent climate-holocaust, the various agricultural solutions proposed by conservationists, technological solutions funded by billionaires in Silicon Valley with spare money, laws from governments, and more.
 
-(An interesting aside is Robinson's take on geo-engineering, or as he calls it, geobegging. "Ugly? Very much so. Dangerous? Probably. Necessary? Yes").  
+(An interesting aside is Robinson's take on geo-engineering, or as he calls it, geobegging: "Ugly? Very much so. Dangerous? Probably. Necessary? Yes").  
 
-An in depth review of the even greater list of specific solutions practiced by these groups and my own (uninformed) perspective on how well they'd work isn't in the purview of this review, but they include recreating all social media to be peer-to-peer and with personal data as a thing to be sold or withheld by the person themselves, national reserves working together to maintain a carbon-coin based off of Keynes' [Bancor](https://en.wikipedia.org/wiki/Bancor) to incentivize divestment, agricultural reforms, conservationists starting a movement to give half of Earth back to non-humans by creating and widening wildlife corridors, zeppelins, Photovoltaic sail-boats, coloring the arctic sea yellow to increase its albedo, reforestation, carbon capture into old oil wells, pumping water out from under glaciers to slow them down, and much more.  
+An in depth review of the even greater list of specific solutions practiced by these groups and my own (uninformed) perspective on how well they'd work isn't in the purview of this review, but they include recreating all social media to be peer-to-peer and with personal data as a thing to be sold or withheld by the person themselves, national reserves working together to maintain a carbon-coin based off of Keynes' [Bancor](https://en.wikipedia.org/wiki/Bancor) to incentivize divestment, a gajillion different agricultural reforms, conservationists starting a movement to give half of Earth back to non-humans by creating and widening wildlife corridors, zeppelins, Photovoltaic sail-boats, coloring the arctic sea yellow to increase its albedo, reforestation, carbon capture into old oil wells, pumping water out from under glaciers to slow them down, and much more.  
 
 The point is that the variety of solutions is so wide, their interactions and consequences so complex, that two things happen. The first is that you accept the broad stroke of all of them taken together. The story is believable. Or at least you aren't smart or knowledgable enough to refute every point sufficiently so just shut up and enjoy the ride. In fact, the scope of the book is downright overwhelming. So much is going on in every cultural, technological, ecological, and economic sphere imaginable that it's difficult to give a full accounting of every little concept or event.  
 
@@ -114,5 +114,5 @@ Octavia Butler's Earthseed Chronicles is another freakishly prescient view of Am
 
 Change is coming, whether its climate change or the changes to our societies we make to combat climate change. We can't stop change, but we can shape it. Ministry for the future shows us a few ways in which we can shape the coming change and urges us to do so before it's too late.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ2Mzc1ODU5XX0=
+eyJoaXN0b3J5IjpbMTY1MzQzOTY2NCw0NDYzNzU4NTldfQ==
 -->
