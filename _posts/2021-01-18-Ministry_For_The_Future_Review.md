@@ -11,9 +11,9 @@ The novel opens with Frank May, a volunteer medical worker from the U.S. working
 
 The true human cost of climate change being made clear from the start, as well as that event's impact throughout the rest of the book, forces you to **get it**—to understand how truly fucked up even the early effects of climate change are going to be and how almost _anything_ is justified to stop and reverse the process. Robinson makes sure this personal understanding of the consequences of climate change remains with you through a character who spends, by the end of the book, twenty eight years of their life in climate refugee camps or in transit between them as well as detailing Frank May's struggle with PTSD post-heatwave. Opening  with climate change caused suffering on a scale surpassing the entirety of WWI means that, a few chapters later, when a couple hundred mid-air flights and cargo ships are destroyed by drones, ending all public air travel and commercial shipping, you feel relieved, rather than horrified. Then you think about that relief and realize "If it's going to get so bad that an onlooker could cheer eco-terrorism, we really have to do everything to stop and try reverse this RIGHT NOW!"  
 
-Of course, in _The Ministry for the Future_ ecoterrorism alone isn't enough. And it won't be enough (and ideally it won't be anything) in our world. That's where the titular ministry comes into play. The ministry's cajoling and pleading with national governments, their good-enough solutions, and their sometimes successful attempts at establishing their own initiatives, all feel incredibly real and are incredibly well researched.  
+Of course, in _The Ministry for the Future_ ecoterrorism alone isn't enough. And it won't be enough (and ideally it won't be anything) in our world. That's where the titular ministry comes into play. The ministry's cajoling and pleading with national governments, their good-enough solutions, and their sometimes successful attempts at establishing their own initiatives, all feel incredibly real, detailed, and well researched.  
 
-Another thing that Robinson does that makes his vision of a potential future feel so complete is the diversity of solutions being practiced by different groups, from India geo-engineering the equivalent of a volcanically induced cooling to prevent climate-holocaust, the various agricultural solutions proposed by conservationists, technological solutions funded by billionaires in Silicon Valley with spare money, laws from governments, and more.
+Another thing that Robinson does that makes his vision of a potential future look so complete is the diversity of solutions being practiced by different groups, from India geo-engineering the equivalent of a volcanically induced cooling to prevent climate-holocaust, the various agricultural solutions proposed by conservationists, technological solutions funded by billionaires in Silicon Valley with spare money, laws from governments, and more.
 
 (An interesting aside is Robinson's take on geo-engineering, or as he calls it, geobegging. "Ugly? Very much so. Dangerous? Probably. Necessary? Yes").  
 
@@ -114,5 +114,5 @@ Octavia Butler's Earthseed Chronicles is another freakishly prescient view of Am
 
 Change is coming, whether its climate change or the changes to our societies we make to combat climate change. We can't stop change, but we can shape it. Ministry for the future shows us a few ways in which we can shape the coming change and urges us to do so before it's too late.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMjk1MDEwM119
+eyJoaXN0b3J5IjpbNDQ2Mzc1ODU5XX0=
 -->
