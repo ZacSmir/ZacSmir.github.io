@@ -76,7 +76,7 @@ Their overall conclusion is that density is more important in urbanizing areas, 
 
 With all these people living in cities, even more people about to be living in cities, and the crazy drops in energy useage we get from dense healthy cities, you'd expect Ministry for the Future to contain a whole lot of content about how cities around the world grow and change in response to climate change, becoming denser, getting better public transit and infrastructure, dealing with massive influxes of internal migrants, fighting NIMBYs who don't want denser housing, even though the world depends on it. Or at least you'd expect some of those things right?  
 
-There are only two chapters in Ministry for the Future that are _about_ cities. There are many digressions within chapters about Zurich, a few of which are about things possible in all cities(as opposed to comments on Swiss culture), like public transportation. But there are only two chapters, out of one hundred and six, about cities.  
+There are only two chapters in Ministry for the Future that are _about_ cities. There are many digressions within chapters about Zurich, a few of which are about things possible in all cities (as opposed to comments on Swiss culture), like public transportation. But there are only two chapters, out of one hundred and six, about cities.  
 
 In the first of these chapters, LA goes through a terrible drought and then floods and is destroyed. At the end of the chapter, the character it centers on thinks to themselves:  
 
@@ -114,6 +114,6 @@ Octavia Butler's Earthseed Chronicles is another freakishly prescient view of Am
 
 Change is coming, whether its climate change or the changes to our societies we make to combat climate change. We can't stop change, but we can shape it. Ministry for the future shows us a few ways in which we can shape the coming change and urges us to do so before it's too late.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk0MTEzMjM0LDE1ODc5MzExNzQsMTA3MD
-I4MTk5LDQ0NjM3NTg1OV19
+eyJoaXN0b3J5IjpbLTE2NjI0ODk5OTYsMTU4NzkzMTE3NCwxMD
+cwMjgxOTksNDQ2Mzc1ODU5XX0=
 -->
