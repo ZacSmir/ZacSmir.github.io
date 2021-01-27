@@ -84,7 +84,7 @@ In the first of these chapters, LA goes through a terrible drought and then floo
 
 The book never returns to Los Angeles. We never see them do it right.  
 
-The second and final chapter that is about cities is only tangentially so. It's about the three hundred inhabitants of small American town (that was never that large to begin with and which has been shrinking for decades) who all have been paid by the government to pack up and leave for a big city because where their town was is getting reclaimed by the Half Earth project I mentioned earlier in the review.  
+The second and final chapter that is about cities is only tangentially so. It's about the three hundred inhabitants of a small American town (that was never that large to begin with and which has been shrinking for decades) who all have been paid by the government to pack up and leave for a big city because where their town was is getting reclaimed by the Half Earth project I mentioned earlier in the review.  
 
 I love this book, that should be clear from the first section of the review, but this is ridiculous. Over five hundred pages, a nice amount of which is on farming and farmers(Only in India and the United States, but still), but next to _none_ of it is about the complex, diverse, and changing built environments that most humans live in! Yes, climate change is the broadest and most universal process in human history. Yes, Ministry for the Future does a better job of capturing that than anything that's come before it. But come on! How does Robinson basically never touch on the direct material surroundings of almost all humans?  
 
@@ -114,7 +114,7 @@ Octavia Butler's Earthseed Chronicles is another freakishly prescient view of Am
 
 Change is coming, whether its climate change or the changes to our societies we make to combat climate change. We can't stop change, but we can shape it. Ministry for the future shows us a few ways in which we can shape the coming change and urges us to do so before it's too late.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNzkwNjc1MCwtMTYxOTUwMTU1OCwtMT
+eyJoaXN0b3J5IjpbLTM3Nzg5MDc0OSwtMTYxOTUwMTU1OCwtMT
 E4NjEwMzI5OCwtMTY2MjQ4OTk5NiwxNTg3OTMxMTc0LDEwNzAy
 ODE5OSw0NDYzNzU4NTldfQ==
 -->
