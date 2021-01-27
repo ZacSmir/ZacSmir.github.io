@@ -37,12 +37,12 @@ Robinson's distinct and early awareness of the map of ideology not being the ter
 For example, it's clear from early chapters about the 2,000-watt society (a group dedicated to only use 2,000 watts of energy each day), conservationism, and the Jevons paradox, which proposes that "increases in efficiency in the use of a resource lead to an overall increase in the use of that resource, not a decrease," that Robinson has some de-growth beliefs. (De-growth is a belief set I deeply disagree with and which people who know more than me have [written about](https://www.bloomberg.com/opinion/articles/2020-02-18/put-a-stop-to-economic-growth-huge-mistake).) Despite all this, The Ministry for the Future isn't wholly in favor of de-growth, neither in methodology or endpoint. Robinson acknowledges the absurdity of demanding that developing countries embrace degrowth and the most explicit case of degrowth is something which I don't believe would actually count as such(I'll get to that next section). In terms of the status of humanity at the end of the books:  
 > Jevons Paradox appeared to be foxed at last; not in its central point, which stated that as more energy was created, more got used; but now that it was being generated cleanly,   
 
-Because of his overall view of how ideology relates to reality, Robinson forces himself to write about a world and series of events that go beyond and require more than one simple beliefset (or horizontal application of one system) can provide. We don't just need to reduce energy useage we also need to produce more clean energy. We don't need to, or simply aren't able, to dismantle harmful financial systems, we can use them to incentivize leaving the growth of clean energy or leaving oil in the ground. No matter how much I disagree with specific solutions or conclusions Robinson reaches, his overall approach is broad, complex, and open enough to tackle the entirety of climate change better than almost all other authors.
+Because of his overall view of how ideology relates to reality, Robinson forces himself to write about a world and series of events that go beyond and require more than one simple belief set (or horizontal application of one system) can provide. We don't just need to reduce energy usage we also need to produce more clean energy. We don't need to, or simply aren't able, to dismantle harmful financial systems, we can use them to incentivize leaving the growth of clean energy or leaving oil in the ground. No matter how much I disagree with specific solutions or conclusions Robinson reaches, his overall approach is broad, complex, and open enough to tackle the entirety of climate change better than almost all other authors.
 
 So, with his approach to ideology and solving problems out of the way, now for his actual ideology. Thankfully, half of it can be summed up in one phrase:
 > "What's good is good for the land."  
 
-This sentence gets repeated numerous times throughout the book. Both by the narrator and as a description of various protagonist organization's worldviews. This either informs or is informed by Robinson's valuing of conservation and sustainability and manifests in various schemes for more sustainable farming/fishing and the "Half Earth Movement" which is dedicated to cutting the land humanity uses down to half of the land-area of the planet. This is the simpler, driving, idealistic, and degrowth connected half of his ideology.  
+This sentence gets repeated numerous times throughout the book. Both by the narrator and as a description of various protagonist organization's world-views. This either informs or is informed by Robinson's valuing of conservation and sustainability and manifests in various schemes for more sustainable farming/fishing and the "Half Earth Movement" which is dedicated to cutting the land humanity uses down to half of the land area of the planet. This is the simpler, driving, idealistic, and degrowth connected half of his ideology.  
 
 The other half is more pragmatic and complex. It's not the goal he's reaching for but his model of understanding the systems that can achieve those goals. From a discussion between the narrator(s):
 > Who matters the most in that group \[that administers our economic system...and teaches others how to work it\]?  
@@ -114,7 +114,7 @@ Octavia Butler's Earthseed Chronicles is another freakishly prescient view of Am
 
 Change is coming, whether its climate change or the changes to our societies we make to combat climate change. We can't stop change, but we can shape it. Ministry for the future shows us a few ways in which we can shape the coming change and urges us to do so before it's too late.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MzU4MjEyMSwtMTYxOTUwMTU1OCwtMT
-E4NjEwMzI5OCwtMTY2MjQ4OTk5NiwxNTg3OTMxMTc0LDEwNzAy
-ODE5OSw0NDYzNzU4NTldfQ==
+eyJoaXN0b3J5IjpbLTEzNzQ4MzAyOTIsLTE2MTk1MDE1NTgsLT
+ExODYxMDMyOTgsLTE2NjI0ODk5OTYsMTU4NzkzMTE3NCwxMDcw
+MjgxOTksNDQ2Mzc1ODU5XX0=
 -->
