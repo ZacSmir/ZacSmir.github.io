@@ -3,7 +3,7 @@ title: A Short Review of Ministry for the Future (Spoilers but definitely not to
 tags: Politics Climate_Change Geo-engineering Technology Cities 
 ---
 <h2>The Story Itself</h2>
-_The Ministry for the Future_ by Kim Stanley Robinson is the best novel about climate change out there. This is partially because of the massive amount of research that must have gone into it and the believable details of the solutions and most of the events that occur throughout the book. However, the real reason why this book is so damn good is because it gets at the visceral, real, and brutal consequences of climate change better than any study or opinion piece ever could and better than any other fiction I've read on the subject has.  
+_The Ministry for the Future_ by Kim Stanley Robinson is the best novel about climate change out there. This is partially because of the massive amount of research that must have gone into it and the believable details of the solutions and events that occur throughout the book (or at least most of them). However, the real reason why this book is so damn good is because it gets at the visceral, real, and brutal consequences of climate change better than any study or opinion piece ever could and better than any other fiction I've read on the subject.  
 
 The novel opens with Frank May, a volunteer medical worker from the U.S. working in India, surviving a heat wave that kills twenty million people. Page _twelve_ has descriptions like  
 
@@ -114,6 +114,7 @@ Octavia Butler's Earthseed Chronicles is another freakishly prescient view of Am
 
 Change is coming, whether its climate change or the changes to our societies we make to combat climate change. We can't stop change, but we can shape it. Ministry for the future shows us a few ways in which we can shape the coming change and urges us to do so before it's too late.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODYxMDMyOTgsLTE2NjI0ODk5OTYsMT
-U4NzkzMTE3NCwxMDcwMjgxOTksNDQ2Mzc1ODU5XX0=
+eyJoaXN0b3J5IjpbMTA1NTc3MTA2OSwtMTE4NjEwMzI5OCwtMT
+Y2MjQ4OTk5NiwxNTg3OTMxMTc0LDEwNzAyODE5OSw0NDYzNzU4
+NTldfQ==
 -->
