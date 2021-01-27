@@ -68,7 +68,7 @@ A: Cities.
 As of [2018](https://www.un.org/development/desa/en/news/population/2018-revision-of-world-urbanization-prospects.html), 55% of all humans live in cities. One in eight humans live in one of _just thirty-three cities_! By 2050 that number will be closer to 68%.  
 Q: In what kinds of settlements do humans emit the least amount of carbon?  
 A: In dense ones, i.e. cities.  
-The carbon footprints of dense cities is leagues under those of suburban sprawl and rural areas. This is partially because methods of transportation used in the suburbs like trucks and cars account for [about 50%](https://news.berkeley.edu/2014/01/06/suburban-sprawl-cancels-carbon-footprint-savings-of-dense-urban-cores/) of all household emissions in the United States, meaning that dense cities which allow for public transit, walking, and cycling are already massively cutting emissions. But it's more than just that. Denser housing also uses significantly less energy than less dense housing. In a 2017 study titled ["Global scenarios of urban density and its impacts on building energy use through 2050"](https://www.pnas.org/content/early/2017/01/03/1606035114.long) researchers found that:  
+The carbon footprints of dense cities is leagues under those of suburban sprawl and rural areas. This is partially because methods of transportation used in the suburbs like trucks and cars account for [about 50%](https://news.berkeley.edu/2014/01/06/suburban-sprawl-cancels-carbon-footprint-savings-of-dense-urban-cores/) of all household emissions in the United States, meaning that dense cities that allow for public transit, walking, and cycling are already massively cutting emissions. But it's more than just that. Denser housing also uses significantly less energy than less dense housing. In a 2017 study titled ["Global scenarios of urban density and its impacts on building energy use through 2050"](https://www.pnas.org/content/early/2017/01/03/1606035114.long) researchers found that:  
 
 > Across all urban density scenarios, advanced efficiency technologies result in about 7 exajoules per year less energy use for heating and cooling in 2050. In comparison, the difference between the high and low urban density scenarios (corresponding to the most compact and least compact urban form futures) is about 8 (in the case of advanced efficiency) to 9 (in the case of business-as-usual efficiency) exajoules in 2050.  
 
@@ -114,7 +114,7 @@ Octavia Butler's Earthseed Chronicles is another freakishly prescient view of Am
 
 Change is coming, whether its climate change or the changes to our societies we make to combat climate change. We can't stop change, but we can shape it. Ministry for the future shows us a few ways in which we can shape the coming change and urges us to do so before it's too late.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDExMDg2LC0xNjE5NTAxNTU4LC0xMT
-g2MTAzMjk4LC0xNjYyNDg5OTk2LDE1ODc5MzExNzQsMTA3MDI4
-MTk5LDQ0NjM3NTg1OV19
+eyJoaXN0b3J5IjpbLTQzNzkwNjc1MCwtMTYxOTUwMTU1OCwtMT
+E4NjEwMzI5OCwtMTY2MjQ4OTk5NiwxNTg3OTMxMTc0LDEwNzAy
+ODE5OSw0NDYzNzU4NTldfQ==
 -->
