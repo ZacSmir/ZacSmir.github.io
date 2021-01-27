@@ -9,7 +9,7 @@ The novel opens with Frank May, a volunteer medical worker from the U.S. working
 
 > all the old people were dead. People murmured what should have been screams of grief; those who could still move shoved bodies out of the lake, or out towards the middle where they floated like logs, or sank,  
 
-The true human cost of climate change being made clear from the start, as well as that event's impact throughout the rest of the book, forces you to **get it**—to understand how truly fucked up even the early effects of climate change are going to be and how almost _anything_ is justified to stop and reverse the process. Robinson makes sure this personal understanding of the consequences of climate change remains with you through a character who spends, by the end of the book, twenty eight years of their life in climate refugee camps or in transit between them as well as detailing Frank May's struggle with PTSD post-heatwave. Opening with climate change caused suffering on a scale surpassing the entirety of WWI means that, a few chapters later, when a couple hundred mid-air flights and cargo ships are destroyed by drones, ending all public air travel and commercial shipping, you almost feel relieved, rather than horrified. Then you think about that relief and realize "If it's going to get so bad that an onlooker could approve of eco-terrorism, we really have to do everything to stop and reverse this process RIGHT NOW!"  
+The true human cost of climate change being made clear from the start, as well as that event's impact throughout the rest of the book, forces you to **get it**—to understand how truly fucked up even the early effects of climate change are going to be and how almost _anything_ is justified to stop and reverse the process. Robinson makes sure this personal understanding of the consequences of climate change remains with you through a character who spends, by the end of the book, twenty eight years of their life in climate-refugee camps or in transit between them as well as detailing Frank May's struggle with PTSD post-heatwave. Opening with climate change caused suffering on a scale surpassing the entirety of WWI means that, a few chapters later, when a couple hundred mid-air flights and cargo ships are destroyed by drones, ending all public air travel and commercial shipping, you almost feel relieved, rather than horrified. Then you think about that relief and realize "If it's going to get so bad that an onlooker could approve of eco-terrorism, we really have to do everything to stop and reverse this process RIGHT NOW!"  
 
 Of course, in _The Ministry for the Future_ ecoterrorism alone isn't enough. And it won't be enough (and ideally it won't be anything) in our world. That's where the titular ministry comes into play. The Ministry for the Future was created by the UN during a Paris Agreement conference in 2025 and was tasked with representing the unborn future generations of humans and other lifeforms who can't speak for themselves, although the organization undergoes quite a bit of scope creep. The ministry's cajoling and pleading with national governments, their good-enough solutions, and their sometimes successful attempts at establishing their own initiatives, all feel incredibly real, detailed, and well researched.  
 
@@ -114,7 +114,7 @@ Octavia Butler's Earthseed Chronicles is another freakishly prescient view of Am
 
 Change is coming, whether its climate change or the changes to our societies we make to combat climate change. We can't stop change, but we can shape it. Ministry for the future shows us a few ways in which we can shape the coming change and urges us to do so before it's too late.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NTc3MTA2OSwtMTE4NjEwMzI5OCwtMT
-Y2MjQ4OTk5NiwxNTg3OTMxMTc0LDEwNzAyODE5OSw0NDYzNzU4
-NTldfQ==
+eyJoaXN0b3J5IjpbLTE2MTk1MDE1NTgsLTExODYxMDMyOTgsLT
+E2NjI0ODk5OTYsMTU4NzkzMTE3NCwxMDcwMjgxOTksNDQ2Mzc1
+ODU5XX0=
 -->
