@@ -26,4 +26,4 @@ titles:
 key: page-about
 ---
 
-I don't know very much. I've read a large amount of science fiction and thought about it a lot. I've come to a kinda anarchist position via liberalism and transhumanism.
+I don't know very much. I've read a large amount of science fiction and thought about it a lot. I outflank market anarchism on the right as a radlib and on the left as a radical transhumanist.
