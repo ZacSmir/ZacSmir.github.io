@@ -26,7 +26,7 @@ titles:
 key: page-about
 ---
 
-I don't know very much. I've read a large amount of science fiction and thought about it a lot. I outflank market anarchism on the right as a radlib and on the left as a radical transhumanist.
+I don't know very much. I've read a large amount of science fiction and thought about it a lot.
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMjA0NjA5MjgxNF19
 -->
